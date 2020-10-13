@@ -8,6 +8,9 @@
     "start": "nodemon app"
   },
   "keywords": [],
+  "engines": {
+    "node": "12.18.4"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
